@@ -18,15 +18,15 @@ const AboutTestimonial = () => {
 					<div className="row g-0">
 						<div className="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
 							<div className="testimonial__video">
-								<Image
+								<img
 									alt="Story Thumbnail"
 									width="587"
 									height="783"
 									decoding="async"
 									data-nimg="1"
 									className="w-100"
-									srcSet="/public/assets/imgs/about/yuri.jpg"
-									src="/public/assets/imgs/about/yuri.jpg"
+									srcSet="/public/assets/imgs/about/yuri.webp"
+									src="/public/assets/imgs/about/yuri.webp"
 									style={{ color: 'transparent', height: '100%', objectFit: 'cover' }}
 								/>
 							</div>
