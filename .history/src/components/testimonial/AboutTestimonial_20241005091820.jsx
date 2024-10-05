@@ -25,8 +25,8 @@ const AboutTestimonial = () => {
 									decoding="async"
 									data-nimg="1"
 									className="w-100"
-									srcSet="/public/assets/imgs/about/yuri.jpg"
-									src="/public/assets/imgs/about/yuri.jpg"
+									srcSet="https://nphdigital.com/wp-content/uploads/2024/07/yuri.png"
+									src="https://nphdigital.com/wp-content/uploads/2024/07/yuri.png"
 									style={{ color: 'transparent', height: '100%', objectFit: 'cover' }}
 								/>
 							</div>
