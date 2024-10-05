@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/lien-he": "pages/lien-he.js",
-  "/trang-chu": "pages/trang-chu.js"
+  "/trang-chu": "pages/trang-chu.js",
+  "/lien-he": "pages/lien-he.js"
 }
