@@ -2,8 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/trang-chu": "pages/trang-chu.js",
   "/bai-viet": "pages/bai-viet.js",
-  "/blog-details-15": "pages/blog-details-15.js",
-  "/blog-details": "pages/blog-details.js"
+  "/blog-details": "pages/blog-details.js",
+  "/blog-details-15": "pages/blog-details-15.js"
 }
