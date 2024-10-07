@@ -22,10 +22,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/gioi-thieu": [
+    "/bai-viet": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/gioi-thieu.js"
+      "static/chunks/pages/bai-viet.js"
+    ],
+    "/blog-details": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/blog-details.js"
+    ],
+    "/blog-details-15": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/blog-details-15.js"
     ],
     "/trang-chu": [
       "static/chunks/webpack.js",
