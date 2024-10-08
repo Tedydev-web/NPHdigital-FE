@@ -23,7 +23,8 @@ const ServiceDetails = () => {
 			<main>
 				<RootLayout
 					header="header3"
-					footer="footer3">
+					footer="footer3"
+					defaultMode="dark">
 					<DetailsWebsite />
 					<WebsiteWorkflow />
 					<WebsiteService />

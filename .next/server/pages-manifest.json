@@ -2,7 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blog-details": "pages/blog-details.js",
+  "/": "pages/index.js",
   "/trang-chu": "pages/trang-chu.js",
-  "/thiet-ke-website": "pages/thiet-ke-website.js"
+  "/mobile-app": "pages/mobile-app.js"
 }

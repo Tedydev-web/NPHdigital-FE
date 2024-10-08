@@ -12,6 +12,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -22,10 +27,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/thiet-ke-website": [
+    "/mobile-app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/thiet-ke-website.js"
+      "static/chunks/pages/mobile-app.js"
     ],
     "/trang-chu": [
       "static/chunks/webpack.js",
