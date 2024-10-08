@@ -1,7 +1,6 @@
 import { useRef, useEffect, useState } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from '@/plugins';
-import Switcher from '../../components/common/Switcher';
 import Link from 'next/link.js';
 import Blog41 from '../../../public/assets/imgs/blog/3/3.png';
 import Blog42 from '../../../public/assets/imgs/blog/3/4.png';
@@ -79,7 +78,6 @@ const StartupAgencyBlog = () => {
 	const [currentPage, setCurrentPage] = useState(1);
 	const blogsPerPage = 5;
 	const blogAreaRef = useRef(null);
-	const [mode, setMode] = useState('light');
 
 	// Tính toán các bài viết cho trang hiện tại
 	const indexOfLastBlog = currentPage * blogsPerPage;
@@ -187,10 +185,6 @@ const StartupAgencyBlog = () => {
 
 	return (
 		<>
-			<Switcher
-				setMode={setMode}
-				mode={mode}
-			/>
 			<style jsx>{`
 				.blog__item-4 {
 					display: flex;
