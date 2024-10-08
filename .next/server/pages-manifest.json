@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blog-details-15": "pages/blog-details-15.js",
-  "/trang-chu": "pages/trang-chu.js"
+  "/dich-vu": "pages/dich-vu.js",
+  "/thiet-ke-website": "pages/thiet-ke-website.js"
 }

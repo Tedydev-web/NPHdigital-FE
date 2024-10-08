@@ -22,15 +22,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/blog-details-15": [
+    "/dich-vu": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/blog-details-15.js"
+      "static/chunks/pages/dich-vu.js"
     ],
-    "/trang-chu": [
+    "/thiet-ke-website": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/trang-chu.js"
+      "static/chunks/pages/thiet-ke-website.js"
     ]
   },
   "ampFirstPages": []

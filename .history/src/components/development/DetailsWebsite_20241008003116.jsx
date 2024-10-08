@@ -1,0 +1,1 @@
+/Users/tedydev/Library/Application Support/CleanShot/media/media_ObXt4HVmOg/CleanShot 2024-10-07 at 16.56.11@2x.png
