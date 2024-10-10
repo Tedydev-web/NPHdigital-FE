@@ -3,6 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/bai-viet": "pages/bai-viet.js",
-  "/thiet-ke-website": "pages/thiet-ke-website.js",
-  "/mobile-app": "pages/mobile-app.js"
+  "/chi-tiet-bai-viet": "pages/chi-tiet-bai-viet.js",
+  "/trang-chu": "pages/trang-chu.js"
 }

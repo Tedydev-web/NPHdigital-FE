@@ -27,10 +27,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/bai-viet.js"
     ],
-    "/mobile-app": [
+    "/chi-tiet-bai-viet": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/mobile-app.js"
+      "static/chunks/pages/chi-tiet-bai-viet.js"
+    ],
+    "/trang-chu": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/trang-chu.js"
     ]
   },
   "ampFirstPages": []
