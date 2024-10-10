@@ -20,49 +20,9 @@ exports.modules = {
 
 /***/ }),
 
-/***/ "./node_modules/swiper/modules/effect-fade/effect-fade.min.css":
-/*!*********************************************************************!*\
-  !*** ./node_modules/swiper/modules/effect-fade/effect-fade.min.css ***!
-  \*********************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
 /***/ "./node_modules/swiper/modules/free-mode/free-mode.min.css":
 /*!*****************************************************************!*\
   !*** ./node_modules/swiper/modules/free-mode/free-mode.min.css ***!
-  \*****************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/modules/navigation/navigation.min.css":
-/*!*******************************************************************!*\
-  !*** ./node_modules/swiper/modules/navigation/navigation.min.css ***!
-  \*******************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/modules/pagination/pagination.min.css":
-/*!*******************************************************************!*\
-  !*** ./node_modules/swiper/modules/pagination/pagination.min.css ***!
-  \*******************************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "./node_modules/swiper/modules/scrollbar/scrollbar.min.css":
-/*!*****************************************************************!*\
-  !*** ./node_modules/swiper/modules/scrollbar/scrollbar.min.css ***!
   \*****************************************************************/
 /***/ (() => {
 

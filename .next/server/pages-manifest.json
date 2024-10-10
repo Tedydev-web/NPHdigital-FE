@@ -3,7 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/bai-viet": "pages/bai-viet.js",
-  "/blog-details-9": "pages/blog-details-9.js",
-  "/blog-details-14": "pages/blog-details-14.js",
-  "/trang-chu": "pages/trang-chu.js"
+  "/thiet-ke-website": "pages/thiet-ke-website.js",
+  "/mobile-app": "pages/mobile-app.js"
 }

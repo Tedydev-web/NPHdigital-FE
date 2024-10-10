@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"pages/trang-chu.jsx -> gsap/ScrollTrigger\":{\"id\":\"pages/trang-chu.jsx -> gsap/ScrollTrigger\",\"files\":[\"static/chunks/node_modules_gsap_ScrollTrigger_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST="{}"
